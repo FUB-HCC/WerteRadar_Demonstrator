@@ -1,0 +1,34 @@
+{
+  "name": "werteradar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.1.0",
+    "@chakra-ui/icons": "",
+    "@chakra-ui/next-js": "",
+    "@chakra-ui/react": "",
+    "@emotion/react": "",
+    "@emotion/styled": "",
+    "react-icons": "",
+    "framer-motion": "",
+    "js-cookie": "",
+    "pdf-lib": "",
+    "@fontsource/poppins": "^5.0.8",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.6",
+    "typescript": "^5"
+  }
+}

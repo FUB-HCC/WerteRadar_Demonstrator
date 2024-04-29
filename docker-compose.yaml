@@ -1,0 +1,17 @@
+version: '3'
+services:
+  # Development server service
+  dev:
+    container_name: werteradar-dev-server
+    build:
+      context: ./
+      dockerfile: dev.Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      # - ./werteradar:/app/app
+      - ./werteradar/app:/app/app
+      - ./werteradar/pages:/app/pages
+      - ./werteradar/public:/app/public
+    command: npm run dev
+

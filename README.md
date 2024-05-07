@@ -33,4 +33,4 @@ The demonstratorwas  conceptualized and designed by researchers of the [Human-Ce
 
 ## License
 
-This project is licensed under the GNU Affero General Public License v3.0 License - see the LICENSE.md file for details
+This project is licensed under the GNU Affero General Public License v3.0 License - see the LICENSE file for details

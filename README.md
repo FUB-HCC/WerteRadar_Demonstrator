@@ -28,7 +28,7 @@ The application should then be accessible via `http://localhost:3000`
 
 ## Authors
 
-The demonstratorwas  conceptualized and designed by researchers of the [Human-Centered Computing](https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html) research group at the Freie Univserität Berlin and implemented by [Algonaut](https://algonaut.com/).
+The demonstrator was  conceptualized and designed by researchers of the [Human-Centered Computing](https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html) research group at the Freie Univserität Berlin and implemented by [Algonaut](https://algonaut.com/).
 
 
 ## License
